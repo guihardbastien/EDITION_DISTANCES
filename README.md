@@ -1,4 +1,4 @@
-# python-tp2-bastien-guihard
+# EDITION_DISTANCES
 
 ## Description
 
